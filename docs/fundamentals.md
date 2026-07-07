@@ -2,7 +2,7 @@
 
 The first skill in Fabric Studies is learning to see direction, edge, stretch and garment construction details. These terms help students cut accurately, fit garments better and communicate clearly in studio.
 
-<img src="assets/images/grain-map.svg" alt="Diagram showing warp, weft, selvage and bias" class="wide-visual">
+![Diagram showing warp, weft, selvage and bias](assets/images/grain-map.svg)
 
 ## Fabric directions
 

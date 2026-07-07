@@ -2,7 +2,6 @@
 
 Fabrics can be made from yarns or directly from fibres. The formation method affects structure, stretch, stability, porosity, surface texture and end use.
 
-![Plain, Twill and Satin woven fabric](assets/images/Plain-Twill-Satin-Woven-Fabric-1024x262.jpeg)
 
 ## Main formation methods
 
@@ -30,7 +29,7 @@ Woven fabrics are produced by interlacing lengthwise warp yarns and widthwise we
 | Take up | Winding the woven fabric onto the cloth beam. |
 
 ### Basic weaves
-
+![Plain, Twill and Satin woven fabric](assets/images/Plain-Twill-Satin-Woven-Fabric-1024x262.jpeg)
 <div class="comparison-cards" markdown>
   <section>
     <h3>Plain weave</h3>

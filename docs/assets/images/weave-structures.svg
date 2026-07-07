@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 430" role="img" aria-labelledby="title desc">
+  <title id="title">Basic weave structures</title>
+  <desc id="desc">Simplified diagrams of plain, twill and satin weave structures.</desc>
+  <rect width="1080" height="430" fill="#f2fbff"/>
+  <text x="540" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#18212f">Basic weave structures</text>
+  <g transform="translate(70 90)">
+    <rect width="260" height="260" rx="8" fill="#ffffff" stroke="#18212f" stroke-width="3"/>
+    <text x="130" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#18212f">Plain</text>
+    <g stroke-width="18" stroke-linecap="round">
+      <line x1="40" y1="50" x2="220" y2="50" stroke="#4fd6a7"/>
+      <line x1="40" y1="100" x2="220" y2="100" stroke="#ffd23f"/>
+      <line x1="40" y1="150" x2="220" y2="150" stroke="#4fd6a7"/>
+      <line x1="40" y1="200" x2="220" y2="200" stroke="#ffd23f"/>
+      <line x1="55" y1="35" x2="55" y2="225" stroke="#ff6b4a"/>
+      <line x1="105" y1="35" x2="105" y2="225" stroke="#00a6d6"/>
+      <line x1="155" y1="35" x2="155" y2="225" stroke="#ff6b4a"/>
+      <line x1="205" y1="35" x2="205" y2="225" stroke="#00a6d6"/>
+    </g>
+  </g>
+  <g transform="translate(410 90)">
+    <rect width="260" height="260" rx="8" fill="#ffffff" stroke="#18212f" stroke-width="3"/>
+    <text x="130" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#18212f">Twill</text>
+    <g stroke-width="18" stroke-linecap="round">
+      <line x1="40" y1="50" x2="220" y2="50" stroke="#ffd23f"/>
+      <line x1="40" y1="100" x2="220" y2="100" stroke="#ffd23f"/>
+      <line x1="40" y1="150" x2="220" y2="150" stroke="#ffd23f"/>
+      <line x1="40" y1="200" x2="220" y2="200" stroke="#ffd23f"/>
+      <line x1="55" y1="35" x2="55" y2="225" stroke="#00a6d6"/>
+      <line x1="105" y1="35" x2="105" y2="225" stroke="#00a6d6"/>
+      <line x1="155" y1="35" x2="155" y2="225" stroke="#00a6d6"/>
+      <line x1="205" y1="35" x2="205" y2="225" stroke="#00a6d6"/>
+    </g>
+    <line x1="38" y1="218" x2="222" y2="38" stroke="#ff6b4a" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(750 90)">
+    <rect width="260" height="260" rx="8" fill="#ffffff" stroke="#18212f" stroke-width="3"/>
+    <text x="130" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#18212f">Satin / Sateen</text>
+    <g stroke-width="18" stroke-linecap="round">
+      <line x1="40" y1="50" x2="220" y2="50" stroke="#ff6b4a"/>
+      <line x1="40" y1="100" x2="220" y2="100" stroke="#ff6b4a"/>
+      <line x1="40" y1="150" x2="220" y2="150" stroke="#ff6b4a"/>
+      <line x1="40" y1="200" x2="220" y2="200" stroke="#ff6b4a"/>
+      <line x1="55" y1="35" x2="55" y2="225" stroke="#4fd6a7"/>
+      <line x1="205" y1="35" x2="205" y2="225" stroke="#4fd6a7"/>
+    </g>
+    <circle cx="105" cy="100" r="13" fill="#00a6d6"/>
+    <circle cx="155" cy="150" r="13" fill="#00a6d6"/>
+  </g>
+</svg>

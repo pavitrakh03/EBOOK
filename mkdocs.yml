@@ -1,0 +1,50 @@
+site_name: Fabric Studies
+site_description: An interactive Fabric Studies learning site for undergraduate fashion design students.
+site_author: Textile Science Department
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - search.highlight
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: cyan
+      accent: deep orange
+
+nav:
+  - Fabric Studies: index.md
+  - Introduction: introduction.md
+  - Fundamentals of Fabrics: fundamentals.md
+  - Methods of Fabric Formation: methods-of-fabric-formation.md
+  - Natural Fabrics: natural-fabrics.md
+  - Synthetic Fabrics: synthetic-fabrics.md
+  - Interactive Quiz: quiz.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - assets/css/styles.css
+
+extra_javascript:
+  - assets/js/quiz.js
+
+plugins:
+  - search

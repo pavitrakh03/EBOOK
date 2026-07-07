@@ -2,7 +2,7 @@
 
 Fabrics can be made from yarns or directly from fibres. The formation method affects structure, stretch, stability, porosity, surface texture and end use.
 
-<img src="assets/images/weave-structures.svg" alt="Plain, twill and satin weave structure diagrams" class="wide-visual">
+![Plain, Twill and Satin woven fabric](assets/images/Plain-Twill-Satin-Woven-Fabric-1024x262.jpeg)
 
 ## Main formation methods
 
